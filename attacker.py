@@ -11,7 +11,7 @@ Pipeline Architecture:
             → CloudWatch SUCCESS Log → Splunk Panel 1 & 4
               → Discord ChatOps Alert
 
-Author: KJ Wilkins (Infrastructure & Terraform) / Kenny Barr (SOC & Splunk)
+Author: Keenen Wilkins (Infrastructure & Terraform) / Kenny Barr (SOC & Splunk)
 Phase: 2 - Automated IP Block via Network ACL
 """
 
